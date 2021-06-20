@@ -40,8 +40,8 @@
 ### Connect with me:
 
 [<img align="left" alt="Kartik Koul | Twitter" width=22px src="https://img.icons8.com/fluent/24/000000/twitter.png"/>][twitter]
-[<img align="left" alt="Kartik Koul | LinkedIn" width=22px src="https://img.icons8.com/fluent/48/000000/linkedin.png"/][linkedin]
-[<img align="left" alt="Kartik Koul | Instagram" width=22px src="https://img.icons8.com/cute-clipart/48/000000/instagram-new.png"/>][instagram]
+[<img align="left" alt="Kartik Koul | LinkedIn" width=22px src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="Kartik Koul | Instagram" width=22px src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
 
 
 
