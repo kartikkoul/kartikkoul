@@ -44,7 +44,7 @@
 [<img align="left" alt="Kartik Koul | Instagram" src="https://img.shields.io/badge/Instagram_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
 
  
-
+ 
 
 <!-- Links -->
 [twitter]: https://twitter.com/_kartikkoul
