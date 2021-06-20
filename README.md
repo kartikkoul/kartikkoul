@@ -15,6 +15,11 @@
 
 <br />
 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31lflqazxlzf3xpiikhsuoggd2ny&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31lflqazxlzf3xpiikhsuoggd2ny&redirect=true)
+
+<br />
+
 ![Kartik's GitHub stats](https://github-readme-stats-kartikkoul.vercel.app/api?username=kartikkoul&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true)
 
 
