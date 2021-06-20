@@ -15,7 +15,7 @@
 
 <br />
 
-![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikkoul&show_icons=true&theme=graywhite)
+![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikkoul&show_icons=true&theme=graywhite&count_private=true)
 
 
 
