@@ -5,6 +5,7 @@
 
 ## I'm a Full Time Developer👨‍💻 and a Fun Time Gamer🎮
 #### "A Noob because learning never stopped", ehh..that line is kinda diplomatic, actually the reason I still not have "PRO" on my GitHub profile🙂
+<br/>
 
 - 🔭 I'm currently working on increasing my DSA Power 💪!!
 - 🌱 I’m currently doing as much qualitative learning as I can 📈
