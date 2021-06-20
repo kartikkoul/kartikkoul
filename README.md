@@ -15,7 +15,7 @@
 
 <br />
 
-[![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikkoul&show_icons=true&theme=tokyonight)](https://github.com/kartikkoul/github-readme-stats)
+[![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=kartikkoul&show_icons=true&titlecolor=20C20E&text_color=C8DFDF&icon_color=23D60F&border_color=C8DFDF&bg_color=0F0F0F&border_radius=8)](https://github.com/kartikkoul/github-readme-stats)
 
 
 ### Languages and Tools:
