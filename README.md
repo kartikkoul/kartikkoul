@@ -39,9 +39,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Kartik Koul | Twitter" width=24px src="https://img.icons8.com/fluent/24/000000/twitter.png"/>][twitter]
-[<img align="left" alt="Kartik Koul | LinkedIn" width=24px src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="Kartik Koul | Instagram" width=24px src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>][instagram]
+[<img align="left" alt="Kartik Koul | Twitter" src="https://img.shields.io/badge/@_kartikkoul-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
+[<img align="left" alt="Kartik Koul | LinkedIn" src="https://img.shields.io/badge/Kartik_Koul-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img align="left" alt="Kartik Koul | Instagram" src="https://img.shields.io/badge/@kartikkoul_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
 
 
 
