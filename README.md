@@ -43,7 +43,7 @@
 [<img align="left" alt="Kartik Koul | LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img align="left" alt="Kartik Koul | Instagram" src="https://img.shields.io/badge/Instagram_-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
 
-
+ 
 
 
 <!-- Links -->
