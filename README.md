@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/_kartikkoul?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_kartikkoul)
 
 ## I'm a Full Time Developer👨‍💻 and a Fun Time Gamer🎮
-### "A Noob because learning never stopped", ehh..that line is kinda diplomatic, actually the reason I still not have "PRO" on my GitHub profile🙂
+#### "A Noob because learning never stopped", ehh..that line is kinda diplomatic, actually the reason I still not have "PRO" on my GitHub profile🙂
 
 - 🔭 I'm currently working on increasing my DSA Power 💪!!
 - 🌱 I’m currently doing as much qualitative learning as I can 📈
