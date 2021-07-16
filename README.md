@@ -53,8 +53,8 @@
 
 
 <!-- Links -->
-[twitter]: https://twitter.com/_kartikkoul
-[instagram]: https://instagram.com/kartikkoul_
+[twitter]: https://twitter.com/kkwhocodes
+[instagram]: https://instagram.com/kkwhocodes_
 [linkedin]: https://linkedin.com/in/kartikkoul
 
 
