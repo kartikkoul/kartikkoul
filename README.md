@@ -1,7 +1,7 @@
 
 ### Hey there, I'm Kartik - aka KK 🚀✨☮
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/_kartikkoul?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_kartikkoul)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_kartikkoul?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kkwhocodes)
 
 ## I'm a Full Time Developer👨‍💻 and a Fun Time Gamer🎮
 #### "A Noob because learning never stopped", ehh..that line is kinda diplomatic, actually the reason is I still not have "PRO" on my GitHub profile🙂
