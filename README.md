@@ -7,9 +7,9 @@
 #### "A Noob because learning never stopped", ehh..that line is kinda diplomatic, actually the reason is I still not have "PRO" on my GitHub profile🙂
 <br/>
 
-- 🔭 Currently working on increasing my DSA Power 💪!!
+- 🔭 Currently working on Blockchain 💪!!
 - 🌱 Doing as much qualitative learning as I can 📈
-- 🚀 Interested in Blockchain 🤖
+- 🚀 Interested in Blockchain & WebGL🤖
 - 👯 Would love to collaborate with Developers/Designers for fun projects in our free time 🕺
 - 🥅 2022 Goals: Contribute extensively to Open Source projects💌
 - ⚡ Fun fact: I have watched FRIENDS 6 times and I love to watch Biopics, Documentaries and Thrillers 🎞
