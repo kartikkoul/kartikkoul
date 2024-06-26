@@ -11,7 +11,7 @@
 - 🌱 Doing as much qualitative learning as I can 📈
 - 🚀 Interested in Blockchain & WebGL🤖
 - 👯 Would love to collaborate with Developers/Designers for fun projects in our free time 🕺
-- 🥅 2022 Goals: Contribute extensively to Open Source projects💌
+- 🥅 2024 Goals: Start contributing to Open Source projects💌
 - ⚡ Fun fact: I have watched FRIENDS 6 times and I love to watch Biopics, Documentaries and Thrillers 🎞
 
 <br />
