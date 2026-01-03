@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kkwhocodes?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/kkwhocodes)
 
-## I'm a Full Time Developer👨‍💻 and a Fun Time Gamer🎮
+## Engineer first, Philosopher always!
 #### "A Noob because learning never stopped", ehh..that line is kinda diplomatic, actually the reason is I still do not have "PRO" on my GitHub profile🙂
 <br/>
 
