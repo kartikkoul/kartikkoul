@@ -7,11 +7,11 @@
 #### "A Noob because learning never stopped", ehh..that line is kinda diplomatic, actually the reason is I still do not have "PRO" on my GitHub profile🙂
 <br/>
 
-- 🔭 Currently working on Blockchain 💪!!
+- 🔭 Currently learning more & more on Web3 & Blockchain 💪!!
 - 🌱 Doing as much qualitative learning as I can 📈
-- 🚀 Interested in Blockchain & WebGL🤖
+- 🚀 Interested in Applied AI🤖
 - 👯 Would love to collaborate with Developers/Designers for fun projects in our free time 🕺
-- 🥅 2024 Goals: Start contributing to Open Source projects💌
+- 🥅 2026 Goals: Start contributing to Open Source projects💌
 - ⚡ Fun fact: I have watched FRIENDS 6 times and I love to watch Biopics, Documentaries and Thrillers 🎞
 
 <br />
@@ -22,7 +22,6 @@
 <br />
 
 ![Kartik's GitHub stats](https://github-readme-stats-kartikkoul.vercel.app/api?username=kartikkoul&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartikkoul)](https://git.io/streak-stats)
 
 
 <br />
