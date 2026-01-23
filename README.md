@@ -7,9 +7,8 @@
 #### "A Noob because learning never stopped", ehh..that line is kinda diplomatic, actually the reason is I still do not have "PRO" on my GitHub profile🙂
 <br/>
 
-- 🔭 Currently learning more & more on Web3 & Blockchain 💪!!
 - 🌱 Doing as much qualitative learning as I can 📈
-- 🚀 Interested in Applied AI🤖
+- 🚀 Interested in Applied AI🤖 & Web3/Blockchain⛓️
 - 👯 Would love to collaborate with Developers/Designers for fun projects in our free time 🕺
 - 🥅 2026 Goals: Start contributing to Open Source projects💌
 - ⚡ Fun fact: I have watched FRIENDS 6 times and I love to watch Biopics, Documentaries and Thrillers 🎞
