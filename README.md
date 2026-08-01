@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1DA1F2&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Kartik+%E2%80%94+aka+KK+%F0%9F%9A%80;Engineer+first%2C+Philosopher+always+%E2%98%AE;Building+with+Applied+AI+%F0%9F%A4%96;Music+%F0%9F%8E%B6+%2B+Coffee+%E2%98%95+%3D+Code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1DA1F2&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Kartik%2C+aka+KK+%F0%9F%9A%80;Software+Development+Engineer+%F0%9F%92%BB;I+ship+full-stack+products+%26+Applied+AI+%F0%9F%A4%96;Engineer+first%2C+Philosopher+always+%E2%98%AE" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <p align="center">
   <em>Software Development Engineer who ships full-stack products and Applied AI systems.<br/>
-  Engineer first, Philosopher always — I care as much about <b>why</b> we build as <b>how</b> we build. ☮</em>
+  Engineer first, Philosopher always: I care as much about <b>why</b> we build as <b>how</b> we build. ☮</em>
 </p>
 
 <br/>
@@ -25,18 +25,16 @@ class Kartik:
         self.alias = "KK"
         self.role = "Software Development Engineer (SDE)"
         self.experience = "~4 years shipping full-stack products & Applied AI systems"
-        self.builds = ["RAG assistants", "Agentic AI workflows", "Scalable backends"]
-        self.education = "M.C.A · Amity University Noida"
+        self.builds = ["Full-stack products", "AI powered products", "RAG assistants", "Agentic AI workflows", "Scalable backends"]
+        self.education = "M.C.A · Amity University Noida · 8.0 CGPA"
 
     def fun_fact(self):
-        return "Watched FRIENDS 6 times & I love Biopics, Documentaries and Thrillers 🎞"
+        return "Watched FRIENDS 6 times & I love Biopics, War epics, Documentaries and Thrillers 🎞"
 ```
 
 - 💼 &nbsp;**SDE** with ~4 years building full-stack products and Applied AI systems end-to-end.
 - 🧩 &nbsp;I build **enterprise RAG assistants**, **agentic AI workflows** (LangChain / LangGraph) and **scalable async backends** with FastAPI & Node.
-- ⚙️ &nbsp;Comfortable across the stack — from **Next.js / React** frontends to **PostgreSQL, vector search** and **AWS / Docker** deployments.
-- 🎓 &nbsp;**Masters in Computer Applications** (8.0 CGPA), Amity University Noida.
-- ⚡ &nbsp;**Fun fact:** I have watched *FRIENDS* 6 times and I love Biopics, Documentaries and Thrillers 🎞
+- ⚙️ &nbsp;Comfortable across the stack, from **Next.js / React** frontends to **FastAPI & Node/Express** backends to **PostgreSQL** and **vector search**, with hands-on familiarity deploying projects on **AWS / Docker**.
 
 <br/>
 
@@ -106,16 +104,11 @@ class Kartik:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kartikkoul&show_icons=true&theme=graywhite&count_private=true&include_all_commits=true&hide_border=true" alt="Kartik's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkoul&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" />
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=kartikkoul&hide_rank=true&custom_title=KK%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=kartikkoul&hide_rank=true&custom_title=KK%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true)
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikkoul&theme=graywhite&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kartikkoul&theme=flat&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 <br/>
@@ -152,7 +145,3 @@ class Kartik:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31lflqazxlzf3xpiikhsuoggd2ny&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31lflqazxlzf3xpiikhsuoggd2ny&redirect=true) -->
 
 <br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20%26%20%E2%98%95-1DA1F2?style=for-the-badge" alt="Made with love and coffee" />
-</p>
