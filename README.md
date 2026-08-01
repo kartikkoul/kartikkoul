@@ -105,7 +105,7 @@ class Kartik:
 
 <p align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=kartikkoul&hide_rank=true&custom_title=KK%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true" alt="Kartik's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkoul&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=kartikkoul&layout=compact&langs_count=5" alt="Top Languages" />
 </p>
 
 <p align="center">
