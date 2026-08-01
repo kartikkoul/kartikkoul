@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://x.com"><img src="https://shields.io" alt="Twitter Follow" /></a>
+  <a href="https://x.com/kkwhocodes"><img src="https://img.shields.io/badge/Follow-%40kkwhocodes-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Follow @kkwhocodes on X" /></a>
   <img src="https://komarev.com/ghpvc/?username=kartikkoul&label=Profile%20views&color=1DA1F2&style=for-the-badge" alt="Profile views" />
 </p>
 
