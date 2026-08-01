@@ -108,7 +108,11 @@ class Kartik:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikkoul&theme=meta-light&hide_border=true" alt="GitHub Streak" />
+  <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=kartikkoul&theme=meta-light&hide_border=true" 
+        alt="GitHub Streak"
+        style="border: 1px solid #e4e2e2; border-radius: 10px;"
+        />
 </p>
 
 <br/>
