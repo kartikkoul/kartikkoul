@@ -128,21 +128,11 @@ class Kartik:
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/kkwhocodes">
-    <img alt="Kartik Koul | Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/kartikkoul">
-    <img alt="Kartik Koul | LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/kkwhocodes_">
-    <img alt="Kartik Koul | Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://kartikkoul.com">
-    <img alt="Kartik Koul | Portfolio" src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:kartikkoulwork@gmail.com">
-    <img alt="Kartik Koul | Email" src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://twitter.com/kkwhocodes"><img alt="Kartik Koul | Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kartikkoul"><img alt="Kartik Koul | LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/kkwhocodes_"><img alt="Kartik Koul | Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://kartikkoul.com"><img alt="Kartik Koul | Portfolio" src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:kartikkoulwork@gmail.com"><img alt="Kartik Koul | Email" src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <!-- ### Music🎶 + Coffee☕ = CODE 💻
